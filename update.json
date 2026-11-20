@@ -1,0 +1,16 @@
+{
+  "packageName": "com.geely.stardrive",
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://raw.githubusercontent.com/R9-7/StarDrive-release/main/StarDrive-1.0.1.apk",
+  "sha256": "d48c40d2c0fbd6f45c510fd8f1ebf2078f4bc0d4ab213f3feed0ea119882d7c6",
+  "size": 1211778,
+  "force": false,
+  "minVersionCode": 0,
+  "publishedAt": "2026-11-20T22:26:52+08:00",
+  "changelog": [
+    "新增在线更新：启动静默检查、点版本号手动检查",
+    "支持开始下载、SHA-256 校验后拉起系统安装器",
+    "支持忽略指定版本与强制更新"
+  ]
+}
