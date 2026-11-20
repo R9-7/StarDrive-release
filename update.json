@@ -3,14 +3,15 @@
   "versionCode": 2,
   "versionName": "1.0.1",
   "apkUrl": "https://raw.githubusercontent.com/R9-7/StarDrive-release/main/StarDrive-1.0.1.apk",
-  "sha256": "d48c40d2c0fbd6f45c510fd8f1ebf2078f4bc0d4ab213f3feed0ea119882d7c6",
-  "size": 1211778,
+  "sha256": "f29f531248dcebe66d6e6876b6a05dc3363cb106e7b223e8a6c0b7dd819c2c8f",
+  "size": 1212202,
   "force": false,
   "minVersionCode": 0,
-  "publishedAt": "2026-11-20T22:26:52+08:00",
+  "publishedAt": "2026-11-20T22:29:51+08:00",
   "changelog": [
-    "新增在线更新：启动静默检查、点版本号手动检查",
-    "支持开始下载、SHA-256 校验后拉起系统安装器",
+    "首页新增「检查更新」入口，点击即可检查新版本",
+    "启动 3 秒后静默检查更新（6 小时内只查一次）",
+    "下载后自动 SHA-256 校验，校验通过再拉起系统安装器",
     "支持忽略指定版本与强制更新"
   ]
 }
