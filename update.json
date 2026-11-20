@@ -1,16 +1,15 @@
 {
   "packageName": "com.geely.stardrive",
-  "versionCode": 5,
-  "versionName": "1.0.4",
-  "apkUrl": "https://raw.githubusercontent.com/R9-7/StarDrive-release/main/StarDrive-1.0.4.apk",
-  "sha256": "be36b0900592066fc214ff1f1ac3b48125279469c12e0165cff8f07e50a837f8",
-  "size": 1212758,
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apkUrl": "https://raw.githubusercontent.com/R9-7/StarDrive-release/main/StarDrive-1.0.6.apk",
+  "sha256": "41c851fb4c3ca03051bbca590ed895384f5f85ff96c8ef4c24d02e56f269d3b8",
+  "size": 1212830,
   "force": false,
   "minVersionCode": 0,
-  "publishedAt": "2026-11-20T22:42:00+08:00",
+  "publishedAt": "2026-11-20T22:50:00+08:00",
   "changelog": [
-    "更新检查改用多通道：GitHub 镜像优先，直连兜底",
-    "下载失败自动切换通道，并记住上次可用的线路",
-    "缩短连接超时，检查更新不再长时间卡住"
+    "修复镜像缓存旧清单导致检查不到新版本",
+    "检查更新会继续探测其它通道，直到发现更高版本"
   ]
 }
