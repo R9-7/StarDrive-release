@@ -1,16 +1,14 @@
 {
   "packageName": "com.geely.stardrive",
-  "versionCode": 11,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v1.1.0/StarDrive-1.1.0.apk",
-  "sha256": "9938809556a79d2c26014f99f3149a8b20de780a3d2f5541012f58fa37ec4323",
-  "size": 1213718,
+  "versionCode": 12,
+  "versionName": "1.1.1",
+  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v1.1.1/StarDrive-1.1.1.apk",
+  "sha256": "5ee09be514decf9b7a6474cfc491154e0ab42a27ec5678326eb8fc42e775fba4",
+  "size": 1213714,
   "force": false,
   "minVersionCode": 0,
-  "publishedAt": "2026-11-21T00:34:51+08:00",
+  "publishedAt": "2026-11-21T00:39:48+08:00",
   "changelog": [
-    "统一更新弹窗文案格式",
-    "修复更新说明显示为数组的问题",
-    "本次更新为测试在线更新功能"
+    "测试在线更新"
   ]
 }
