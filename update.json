@@ -1,13 +1,13 @@
 {
   "packageName": "com.geely.stardrive",
-  "versionCode": 22,
-  "versionName": "1.1.4",
-  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v1.1.4/StarDrive-1.1.4.apk",
-  "sha256": "edb62af27d9a4a60eb00dc2ff037f6fb8b096e65d029a579acc1007615f397fe",
-  "size": 1229710,
+  "versionCode": 25,
+  "versionName": "1.1.5",
+  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v1.1.5/StarDrive-1.1.5.apk",
+  "sha256": "bc821908248429fa77f824ae33d03c3b62f4c4d798bb44bee9ef8a71d6f8e1dd",
+  "size": 1229690,
   "force": false,
   "minVersionCode": 0,
-  "publishedAt": "2026-11-21T16:19:09+08:00",
+  "publishedAt": "2026-11-21T16:30:59+08:00",
   "changelog": [
     "1.1.0",
     "- 新增在线更新：设置页可检查新版本并直接下载安装。",
@@ -26,9 +26,9 @@
     "- 修复音乐卡片空白、「词」按钮不生效。",
     "1.1.3",
     "- 音乐卡片新增「频谱反转」独立开关，未单独设置时跟随歌词卡片。",
-    "- 更新弹窗改版：小标题加粗放大，条目统一「-」开头。",
+    "- 更新弹窗改版：小标题加粗，条目统一「-」开头。",
     "1.1.4",
-    "- 「更新内容」标题加粗，与正文区分。",
-    "- 更新说明改为从 1.1.0 起汇总展示，并修复条目符号丢失、版本号被误当成条目的问题。"
+    "- 更新内容按版本分段：大标题放大加粗，小标题加粗，条目「-」开头。",
+    "- 修复更新说明条目符号丢失、版本号被误当成条目的问题。"
   ]
 }
