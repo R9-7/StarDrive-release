@@ -1,16 +1,15 @@
 {
   "packageName": "com.geely.stardrive",
-  "versionCode": 26,
-  "versionName": "1.1.6",
-  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v1.1.6/StarDrive-1.1.6.apk",
-  "sha256": "433d449259d9f63c7b29ab52ba7bc3eafe9cb0a57a0149d24c130992975bbea9",
-  "size": 1932886,
+  "versionCode": 27,
+  "versionName": "1.1.7",
+  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v1.1.7/StarDrive-1.1.7.apk",
+  "sha256": "ddd162eabec079d3135865523a69b7f7a60675a7ba7035aa79fa9132215fd8d0",
+  "size": 1355287,
   "force": false,
   "minVersionCode": 0,
-  "publishedAt": "2026-11-22T03:52:36+08:00",
+  "publishedAt": "2026-11-22T12:57:56+08:00",
   "changelog": [
-    "1.1.6",
-    "- 重绘 UI 布局",
-    "- 优化流畅性"
+    "优化桌面小组件流畅性",
+    "优化音乐卡片播放状态识别"
   ]
 }
