@@ -1,15 +1,17 @@
 {
   "packageName": "com.geely.stardrive",
-  "versionCode": 27,
-  "versionName": "1.1.7",
-  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v1.1.7/StarDrive-1.1.7.apk",
-  "sha256": "ddd162eabec079d3135865523a69b7f7a60675a7ba7035aa79fa9132215fd8d0",
-  "size": 1355287,
+  "versionCode": 29,
+  "versionName": "1.1.8",
+  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v1.1.8/StarDrive-1.1.8.apk",
+  "sha256": "084d86d99d7c5ea7d8ee1d926b1fd1f34a5ca4d08ededbfb3c472bf77541c19b",
+  "size": 2764648,
   "force": false,
   "minVersionCode": 0,
-  "publishedAt": "2026-11-22T12:57:56+08:00",
+  "publishedAt": "2026-11-23T00:15:30+08:00",
   "changelog": [
-    "优化桌面小组件流畅性",
-    "优化音乐卡片播放状态识别"
+    "1.1.8",
+    "- 更新13种卡片样式",
+    "- 新增天气卡片",
+    "- 优化流畅性"
   ]
 }
