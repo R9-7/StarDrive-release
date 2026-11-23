@@ -1,17 +1,18 @@
 {
   "packageName": "com.geely.stardrive",
-  "versionCode": 29,
-  "versionName": "1.1.8",
-  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v1.1.8/StarDrive-1.1.8.apk",
-  "sha256": "084d86d99d7c5ea7d8ee1d926b1fd1f34a5ca4d08ededbfb3c472bf77541c19b",
-  "size": 2764648,
+  "versionCode": 31,
+  "versionName": "1.1.9",
+  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v1.1.9/StarDrive-1.1.9.apk",
+  "sha256": "381ec53a10df78599645e77e317df01d0e7d5195e60ddfc80800eddd3cec1564",
+  "size": 1878669,
   "force": false,
   "minVersionCode": 0,
-  "publishedAt": "2026-11-23T00:15:30+08:00",
+  "publishedAt": "2026-11-24T00:51:06+08:00",
   "changelog": [
-    "1.1.8",
-    "- 更新13种卡片样式",
-    "- 新增天气卡片",
-    "- 优化流畅性"
+    "- 更新单卡独立样式",
+    "- 首页车模编辑",
+    "- 稳定性优化",
+    "- 流畅性优化",
+    "- 音乐卡移除歌词/频谱/「词」按钮"
   ]
 }
