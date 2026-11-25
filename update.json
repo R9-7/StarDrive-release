@@ -1,18 +1,20 @@
 {
   "packageName": "com.geely.stardrive",
-  "versionCode": 31,
-  "versionName": "1.1.9",
-  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v1.1.9/StarDrive-1.1.9.apk",
-  "sha256": "381ec53a10df78599645e77e317df01d0e7d5195e60ddfc80800eddd3cec1564",
-  "size": 1878669,
+  "versionCode": 32,
+  "versionName": "2.0.0",
+  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v2.0.0/StarDrive-2.0.0.apk",
+  "sha256": "a8d11ad7469a08c772d01740d392d2187ee52493faaaef652aa17bd1e2446c6b",
+  "size": 2006810,
   "force": false,
   "minVersionCode": 0,
-  "publishedAt": "2026-11-24T00:51:06+08:00",
+  "publishedAt": "2026-11-25T15:23:26+08:00",
   "changelog": [
-    "- 更新单卡独立样式",
-    "- 首页车模编辑",
-    "- 稳定性优化",
-    "- 流畅性优化",
-    "- 音乐卡移除歌词/频谱/「词」按钮"
+    "新增功能",
+    "- 壁纸替换：支持静态壁纸与动态壁纸，随时更换车机桌面",
+    "- 手机传输：手机浏览器直连车机，上传、管理壁纸与文件，远程一键替换",
+    "- Folia 投屏：手机内容投射到车机（需安装 Folia）",
+    "优化改进",
+    "- 优化稳定性",
+    "- 优化座椅调节、通风加热卡片文字显示"
   ]
 }
