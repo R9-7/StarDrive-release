@@ -1,16 +1,19 @@
 {
   "packageName": "com.geely.stardrive",
-  "versionCode": 33,
-  "versionName": "2.0.1",
-  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v2.0.1/StarDrive-2.0.1.apk",
-  "sha256": "4e3e0be6993bdb5c0943fa0bca17e08a071191f4512c69f2a58ebf409c9e3606",
-  "size": 2148868,
+  "versionCode": 34,
+  "versionName": "2.0.2",
+  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v2.0.2/StarDrive-2.0.2.apk",
+  "sha256": "3c4c5dfb80c7ae0cf18a2b73075e01a399a9c60d54bfdacf6a0cfeb97bbda934",
+  "size": 2150816,
   "force": false,
   "minVersionCode": 0,
-  "publishedAt": "2026-11-26T00:45:43+08:00",
+  "publishedAt": "2026-11-26T12:33:10+08:00",
   "changelog": [
-    "- 新增网页操作星驭。",
-    "- 新增网页访问密码。",
-    "- 细节与排版优化。"
+    "更新内容：",
+    "2.0.2",
+    "- 修复手机版 APK 配对记忆问题。",
+    "- 修复 APK 下载问题。",
+    "- 优化网页显示。",
+    "- 已装星驭互联 APK 的请覆盖安装。"
   ]
 }
