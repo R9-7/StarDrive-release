@@ -1,19 +1,20 @@
 {
   "packageName": "com.geely.stardrive",
-  "versionCode": 34,
-  "versionName": "2.0.2",
-  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v2.0.2/StarDrive-2.0.2.apk",
-  "sha256": "3c4c5dfb80c7ae0cf18a2b73075e01a399a9c60d54bfdacf6a0cfeb97bbda934",
-  "size": 2150816,
+  "versionCode": 35,
+  "versionName": "2.0.3",
+  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v2.0.3/StarDrive-2.0.3.apk",
+  "sha256": "9ab2c85a14ed4c1dabd9d10f7b8bcd49b01bcb6e4aebc6b8ed4047aa605e29d4",
+  "size": 2258927,
   "force": false,
   "minVersionCode": 0,
-  "publishedAt": "2026-11-26T12:33:10+08:00",
+  "publishedAt": "2026-11-26T20:53:45+08:00",
   "changelog": [
     "更新内容：",
-    "2.0.2",
-    "- 修复手机版 APK 配对记忆问题。",
-    "- 修复 APK 下载问题。",
-    "- 优化网页显示。",
-    "- 已装星驭互联 APK 的请覆盖安装。"
+    "2.0.3",
+    "- 升级网页端文件管理，支持文件夹浏览与跨目录复制、移动。",
+    "- 新增悬浮组件，可在车机上自由排版并投放。",
+    "- 悬浮组件投屏需先在原车「地图」中开启「地图飞屏」。",
+    "- 新增语音控制第三方音乐切歌。"
+    "- 网页端需要就是首页的手机传输，apk扫码进入网页端的首页下滑有下载方式。首次使用前往应用管家一键授权。"
   ]
 }
