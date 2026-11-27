@@ -1,22 +1,17 @@
 {
   "packageName": "com.geely.stardrive",
-  "versionCode": 36,
-  "versionName": "2.0.5",
-  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v2.0.5/StarDrive-2.0.5.apk",
-  "sha256": "11b1a28b5914649e1a5d4c389ea504bebcbb3aa3bee5316ddfec5eda5ea4597a",
-  "size": 2356779,
+  "versionCode": 37,
+  "versionName": "2.0.6",
+  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v2.0.6/StarDrive-2.0.6.apk",
+  "sha256": "026f497b2b09322fb9e06ff60ed7eded5359f8b7f1ad91db3c6a2aee928490e0",
+  "size": 2522243,
   "force": false,
   "minVersionCode": 0,
-  "publishedAt": "2026-11-27T23:24:48+08:00",
+  "publishedAt": "2026-11-28T02:20:58+08:00",
   "changelog": [
-    "更新内容：",
-    "2.0.5",
-    "- 新增自制屏保：全屏屏保，时间自由排版，支持图片 / 视频背景，主副屏独立设置（暂仅支持 21-23 款车型）。",
-    "- 新增方控接管：方向盘媒体键可直接控制第三方播放器，支持上一首 / 下一首 / 播放暂停。",
-    "- 支持 QQ音乐、网易云、酷狗等播放器，跟随当前音源自动接管，原车音频不受影响。",
-    "- 新增一键移除原车桌面卡片：无需逐张手动清理，一键即可移除原车桌面卡片。",
-    "更新提示：",
-    "- 已安装星驭互联手机版 APK 的，请重新覆盖安装一次。",
-    "- 本次优化了手机与车机的连接方式，覆盖安装后重新扫码配对即可。"
+    "2.0.6",
+    "- 优化布局排版，界面更整齐清晰。",
+    "- 优化屏保流畅性，切换与显示更顺滑。",
+    "- 新增副屏常亮开关，可一键保持副屏常亮。"
   ]
 }
