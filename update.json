@@ -1,17 +1,14 @@
 {
   "packageName": "com.geely.stardrive",
-  "versionCode": 39,
-  "versionName": "2.0.7",
-  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v2.0.7/StarDrive-2.0.7.apk",
-  "sha256": "04babab45bbf880af30429f76d60e9c0f34bc8b85a0ee5add11179651840064e",
-  "size": 2565104,
+  "versionCode": 40,
+  "versionName": "2.0.8",
+  "apkUrl": "https://github.com/R9-7/StarDrive-release/releases/download/v2.0.8/StarDrive-2.0.8.apk",
+  "sha256": "6c8353d3649617f59b80c5fcae898f5f10a04757a25edee0666d7606b7ece9c5",
+  "size": 2597860,
   "force": false,
   "minVersionCode": 0,
-  "publishedAt": "2026-11-28T15:07:13+08:00",
+  "publishedAt": "2026-11-28T19:03:25+08:00",
   "changelog": [
-    "2.0.7",
-    "- 新增主驾座椅记忆卡片。",
-    "- 新增语音助手控制主驾座椅记忆。",
-    "- 修复禁用原车屏保后副屏息屏无法点击点亮的问题。"
+    "修复副驾座椅实体按键识别"
   ]
 }
